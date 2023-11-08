@@ -8,7 +8,7 @@
 
 #### 使用
 如果您拥有一定的运筹学基础，可以很快上手；
-如果没有，近期我将会在[我的博客](https://www.dawn-of-time.top/post/9ca67f0b.html)撰写更详尽的说明文档。
+如果没有，您可以通过[单击此处](https://www.bilibili.com/video/BV1KN4y1y7vT/?spm_id_from=333.999.0.0)查看简单的操作视频。
 
 #### 反馈
 您可以通过以下方式向我反馈：
